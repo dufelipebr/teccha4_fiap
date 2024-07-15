@@ -1,6 +1,8 @@
 # teccha4_fiap
 repositorio do projeto para apresentação teccha4 fiap
 
+Link do Notion: https://www.notion.so/Bronco-Tec-Insurance-Inc-c94411eed1ff47f3aa70f4dfbe56ce73?pvs=4
+
 Projeto consiste em : 
 
 # apibronco.net
