@@ -3,13 +3,13 @@ repositorio do projeto para apresentação teccha4 fiap
 
 Projeto consiste em : 
 
-apibronco.net -> C# API codigo com controlers utilizados e logica de persistência no atlas mongodb cloud. 
+*apibronco.net -> C# API codigo com controlers utilizados e logica de persistência no atlas mongodb cloud. 
 está publicada no Azure : https://dev-azure-brazilsouth-broncoapi.azurewebsites.net/swagger/index.html
-* Pode existir uma limitação para rodar local porque no MongoDb do Atlas é necessário configurar o Client IP que está executando, senão bloqueia.
+** Pode existir uma limitação para rodar local porque no MongoDb do Atlas é necessário configurar o Client IP que está executando, senão bloqueia.
 
-apibronco.xunit -> possui os testes XUNIT realizados na fase 4 
+*apibronco.xunit -> possui os testes XUNIT realizados na fase 4 
 
-bronco_corretor_online (new)  -> React & Next.JS com a implementação de criação de proposta de seguros. 
+*bronco_corretor_online (new)  -> React & Next.JS com a implementação de criação de proposta de seguros. 
 Para buildar é necessário instalar ultima versão do node e npm e next.Js. 
 Estou rodando node 10.4.0 e npm 20.11.0. Next JS 14.2.4
 
