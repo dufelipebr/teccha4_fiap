@@ -1,0 +1,43 @@
+{
+  "identificador": "PRODUTO01",
+  "identicador_Ramo": "1381",
+  "produto_Descricao": "Life Insurance - Bronco Premium Asset",
+  "comentario_Contratacao": "*seguradora se provê do direito de alterar os custos do seguro a qualquer momento sem aviso prévio",
+  "comentario_Produto": "O Seguro de Vida - Bronco Premium Asset é o perfil de seguro com cobertura completa para morte no valor de até R$ 300.000,00, tambem realiza cobertura em caso de danos de terceiros no valor de R$ 50.000,00, possui cobertura funeral de até R$ 10.000,00, e permite saque de até 100.000,00 em caso de incapacidade temporaria por acidente.",
+  "preco_Produto": 120,
+  "moeda": "BRL",
+  "coberturas_IDs": [
+    "Cob001", "Cob002"
+  ],
+  "questionario_Riscos": [
+    {
+      "numero": 1,
+      "identificador": "pergunta-1",
+      "pergunta": "qual é a sua idade?",
+      "tipo_Pergunta": "text",
+      "resposta": ""
+    },
+    {
+      "numero": 2,
+      "identificador": "pergunta-2",
+      "pergunta": "você é fumante?",
+      "tipo_Pergunta": "text",
+      "resposta": ""
+    },
+    {
+      "numero": 3,
+      "identificador": "pergunta-3",
+      "pergunta": "Você tem problemas de saude (pressão alta, cardiaco, etc...). Se sim, quais ?",
+      "tipo_Pergunta": "text",
+      "resposta": ""
+    }
+,
+    {
+      "numero": 4,
+      "identificador": "pergunta-4",
+      "pergunta": "Já realizou alguma cirurgia? Se sim, quais ?",
+      "tipo_Pergunta": "text",
+      "resposta": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Cobertura001",
+  "createdOn": "2024-07-03T22:57:44.719Z",
+  "lastUpdateOn": "2024-07-03T22:57:44.719Z",
+  "id_Status": 1,
+  "id_Object_Type": "COBER",
+  "mongoDb_Entity_Name": "string",
+  "codigo_Susep": "000001",
+  "codigo_Identificador": "Cobertura001",
+  "descricao": "Seguro contra Morte",
+  "valor_DanoMaximo": 100000.00,
+  "valor_Premio": 80.00,
+  "valor_IOF": 0,
+  "valor_Custo_Emiss": 0,
+  "valor_Add_Fraq": 0,
+  "valor_Cosseg_Cedido": 0,
+  "valor_LMI": 100000.00,
+  "valor_Is": 0,
+  "valor_Comiss": 0,
+  "codigo_Moeda": "BRL"
+}

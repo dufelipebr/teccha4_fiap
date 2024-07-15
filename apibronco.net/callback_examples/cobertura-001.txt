@@ -1,0 +1,16 @@
+{
+  "codigo_Susep": "Cob001",
+  "codigo_Identificador": "Cob001",
+  "descricao": "Morte (natural ou acidental)",
+  "valor_DanoMaximo": 100000,
+  "valor_Premio": 100,
+  "valor_IOF": 0,
+  "valor_Custo_Emiss": 0,
+  "valor_Add_Fraq": 0,
+  "valor_Cosseg_Cedido": 0,
+  "valor_LMI": 300.000,
+  "valor_Is": 0,
+  "valor_Comiss": 15.00,
+  "codigo_Moeda": "REAL",
+  "codigo_Grupo_Ramo": "1381"
+}
