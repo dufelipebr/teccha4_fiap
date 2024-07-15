@@ -3,7 +3,7 @@ repositorio do projeto para apresentação teccha4 fiap
 
 Projeto consiste em : 
 
-apibronco.net -> C# API codigo com conntrolers utilizados e logica de persistência no atlas mongodb cloud. 
+apibronco.net -> C# API codigo com controlers utilizados e logica de persistência no atlas mongodb cloud. 
 está publicada no Azure : https://dev-azure-brazilsouth-broncoapi.azurewebsites.net/swagger/index.html
 * Pode existir uma limitação para rodar local porque no MongoDb do Atlas é necessário configurar o Client IP que está executando, senão bloqueia.
 
