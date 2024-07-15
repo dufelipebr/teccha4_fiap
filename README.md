@@ -3,13 +3,16 @@ repositorio do projeto para apresentação teccha4 fiap
 
 Projeto consiste em : 
 
-*apibronco.net -> C# API codigo com controlers utilizados e logica de persistência no atlas mongodb cloud. 
+# apibronco.net
+C# API codigo com controlers utilizados e logica de persistência no atlas mongodb cloud. 
 está publicada no Azure : https://dev-azure-brazilsouth-broncoapi.azurewebsites.net/swagger/index.html
-** Pode existir uma limitação para rodar local porque no MongoDb do Atlas é necessário configurar o Client IP que está executando, senão bloqueia.
+* Pode existir uma limitação para rodar local porque no MongoDb do Atlas é necessário configurar o Client IP que está executando, senão bloqueia.
 
-*apibronco.xunit -> possui os testes XUNIT realizados na fase 4 
+# apibronco.xunit
+ possui os testes XUNIT realizados na fase 4 
 
-*bronco_corretor_online (new)  -> React & Next.JS com a implementação de criação de proposta de seguros. 
+# bronco_corretor_online (new)  
+React & Next.JS com a implementação de criação de proposta de seguros. 
 Para buildar é necessário instalar ultima versão do node e npm e next.Js. 
 Estou rodando node 10.4.0 e npm 20.11.0. Next JS 14.2.4
 
@@ -25,8 +28,7 @@ duvidas :
 1. Abra o terminal e digite o seguinte comando para criar um novo projeto Next.js:
 
 ```
-npx create-next-app@latest nome-do-seu-projeto
--- ou para instalar somente o next e react no projeto já criado
+ instalar somente o next 
 npm install next@latest react@latest react-dom@latest
 ```
 
@@ -35,18 +37,19 @@ npm install next@latest react@latest react-dom@latest
 
 Pronto, agora você tem um novo projeto Next.js rodando em seu computador!
 
-Para rodar em modo DEV 
-
-```
-npm run dev 
-```
-
 Instalação de bibliotecas (dependências) utilizadas no projeto
 
 ```jsx
 npm install @tailwindcss/forms
 npm install @heroicons/react
 ```
+
+
+Para rodar em modo DEV 
+```
+npm run dev 
+```
+
 
 
 
